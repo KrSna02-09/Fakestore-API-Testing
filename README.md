@@ -59,7 +59,7 @@ newman run FakeStore_API_TestSuite.json -e FakeStore_ENV.json -r htmlextra --rep
 
 ## 📊 Test Results
 
-![Collection Runner](Screenshot 2026-06-12 163950.png)
+![Collection Runner](https://github.com/KrSna02-09/Fakestore-API-Testing/blob/main/Screenshot%202026-06-12%20163950.png)
 
 ![Newman HTML Report](TestReport.html)
 
